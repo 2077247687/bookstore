@@ -14,5 +14,8 @@ public  class   BaseDao{
 		return list;
 	}
 	
+	public int save(String sql ,Object ... params){
+		
+	}
 	
 }
